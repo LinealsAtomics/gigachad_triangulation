@@ -3,7 +3,7 @@
 
 int main(){
 
-    printf("Copyright (c) 2024, EvilRamin\n");
+    printf("Copyright (c) 2024, Lineal\n");
     printf("MIT license: https://mit-license.org/\n");
     printf("Gigachad triangulation\n");
     printf("(for when u wanna minimize ender pearl throws in Minecraft!)\n");
